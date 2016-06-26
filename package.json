@@ -1,0 +1,37 @@
+{
+  "name": "node-nightly-version",
+  "version": "0.0.0",
+  "description": "Get the node nightly version.",
+  "license": "MIT",
+  "repository": "hemanth/node-nightly-version",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "node",
+    "version",
+    "nightly"
+  ],
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
