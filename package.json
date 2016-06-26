@@ -1,6 +1,6 @@
 {
   "name": "node-nightly-version",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the node nightly version.",
   "license": "MIT",
   "repository": "hemanth/node-nightly-version",
