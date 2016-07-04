@@ -35,6 +35,7 @@ $ node-nightly-version --help
 
 ```
 
+P.S: If `process.env.NODEJS_ORG_NIGHTLY_MIRROR` is set, it shall pick-up that URL.
 
 ## License
 
