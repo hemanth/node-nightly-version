@@ -1,6 +1,6 @@
 # node-nightly-version [![Build Status](https://travis-ci.org/hemanth/node-nightly-version.svg?branch=master)](https://travis-ci.org/hemanth/node-nightly-version)
 
->  Get the node nightly version.
+>  Get the latest node nightly version.
 
 
 ## Install
@@ -14,7 +14,7 @@ $ npm install --save node-nightly-version
 
 ```js
 nodeNightlyVersion()
-.then(console.log) // 
+.then(console.log) // Latest version for your OS.
 .catch(console.error);
 ```
 

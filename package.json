@@ -1,7 +1,7 @@
 {
   "name": "node-nightly-version",
   "version": "1.0.1",
-  "description": "Get the node nightly version.",
+  "description": "Get the latest node nightly version.",
   "license": "MIT",
   "repository": "hemanth/node-nightly-version",
   "author": {
@@ -29,7 +29,8 @@
   ],
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
-    "meow": "^3.7.0"
+    "meow": "^3.7.0",
+    "node-nightly-versions": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^0.15.2"
