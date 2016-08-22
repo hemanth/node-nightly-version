@@ -30,9 +30,9 @@
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "meow": "^3.7.0",
-    "node-nightly-versions": "^1.0.0"
+    "node-nightly-versions": "^1.0.2"
   },
   "devDependencies": {
-    "ava": "^0.15.2"
+    "ava": "^0.16.0"
   }
 }
