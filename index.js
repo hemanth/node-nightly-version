@@ -10,7 +10,7 @@ const osVerMap = {
   'linux-x64':'linux-x64',
   'linux-x86':'linux-x86',
   'sunos-x64':'sunos-x64',
-  'sunos-x86':'sunos-x86',
+  'sunos-x86':'sunos-x86'
 }
 
 module.exports = () => nightlyVersions()
