@@ -28,7 +28,7 @@
     "nightly"
   ],
   "dependencies": {
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "meow": "^3.7.0",
     "node-nightly-versions": "^1.0.2"
   },
